@@ -11,7 +11,6 @@
     title: 'Tanner Bleakley',
     description: "Tanner Bleakley's personal website",
 
-    url: 'https://tannerbleakley.com/about',
     type: 'article'
   };
 </script>
