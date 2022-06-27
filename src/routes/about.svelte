@@ -46,8 +46,7 @@
       degree. As someone who enjoys a good adventure, I am open to remote jobs as well as
       opportunities to completely relocate if needed. As I am interested in and compassionate
       towards other cultures, I would consider it an honor to work in an area I’ve never lived in
-      before. For the full scope of my full-stack development skills and abilities, I invite you to
-      check out my <a href="/resume">resume!</a>
+      before.
     </div>
     <div class="paragraph">
       When I am away from the office, I enjoy kitesurfing, flying drones, and filming these
