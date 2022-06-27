@@ -1,12 +1,13 @@
 <script>
   import { page } from '$app/stores';
-  import logo from './svelte-logo.svg';
+
+  import favicon from './favicon.png';
 </script>
 
 <header>
   <div class="corner">
     <a href="https://kit.svelte.dev">
-      <img src={logo} alt="SvelteKit" />
+      <img src={favicon} alt="tanner bleakley" />
     </a>
   </div>
 
