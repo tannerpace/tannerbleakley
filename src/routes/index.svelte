@@ -13,7 +13,7 @@
 
 <section>
   <div class="content">
-    <h1>Hi I am <a href="www.tannerbleakley.com">Tanner</a></h1>
+    <h1>Hi I am Tanner</h1>
     <p>
       I am a software engineer based in the Charleston South Carolina area. I have a passion for
       building software that improves the lives of people.
