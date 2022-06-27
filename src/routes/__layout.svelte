@@ -12,7 +12,7 @@
       path: $page.url.pathname,
       params: $page.params,
       analyticsId
-    })
+    });
   }
 </script>
 
@@ -23,7 +23,7 @@
 </main>
 
 <footer>
-  <p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+  <p>{'Copyright © '} {new Date().getFullYear()}<br />Tanner Bleakley <br /></p>
 </footer>
 
 <style>
