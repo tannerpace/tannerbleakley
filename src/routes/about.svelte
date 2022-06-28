@@ -35,10 +35,12 @@
     <div class="paragraph">
       From front-end to data base, I am well-versed in bringing anyone’s tech or web design vision
       to life. Inspired by influential individuals in the technology community, such as George Hotz
-      and even Quincy Larson, I am adamant about staying updated on today’s best practices,
-      innovations, and trends in the industry. As someone who once aspired to become a teacher, I
-      enjoy taking the time to fully and transparently explain my process, solutions, and outcomes
-      to clients.
+      founder of <a href="http://comma.ai">Comma.ai</a>
+      and even Quincy Larson the founder of
+      <a href="https://www.freecodecamp.org">Free Code Camp</a>, I am adamant about staying updated
+      on today’s best practices, innovations, and trends in the industry. As someone who once
+      aspired to become a teacher, I enjoy taking the time to fully and transparently explain my
+      process, solutions, and outcomes to clients.
     </div>
     <div class="paragraph">
       In 2007, I graduated from the College of Charleston, where I earned a Bachelor of Science
@@ -55,9 +57,9 @@
       <a href="kitesurf.ninja"> KiteSurfing Ninja,</a>
       which will be a free tool to further connect the kitesurfing community. In my spare time, I can
       often be found furthering the growth of my small photography and drone videography business,
-      <a href="airautonomo.com"> Airautonomo.</a> Even when I am not working, I am consistently
-      researching the field to ensure I provide my clients and employers with the most current
-      full-stack developer technology solutions.<br class="paragraph" />
+      <a href="https://airautonomo.com"> Airautonomo.</a> Even when I am not working, I am
+      consistently researching the field to ensure I provide my clients and employers with the most
+      current full-stack developer technology solutions.<br class="paragraph" />
       <div class="paragraph">
         Would you like to know more about my expertise and interests? Please feel free to Contact Me
         any time to chat! "
