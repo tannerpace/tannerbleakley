@@ -25,8 +25,9 @@
       > Resume
     </h4>
   </a>
-
-  <img class="resume-svg" src="resume.svg" alt="resume" />
+  <div class="img-container">
+    <img class="resume-svg" src="resume.svg" alt="resume" />
+  </div>
 </div>
 
 <style>
@@ -48,5 +49,18 @@
     display: block;
     text-align: center;
     margin-top: 1rem;
+  }
+
+  .image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .resume-svg {
+    width: 100%;
+    max-width: var(--column-width);
+    margin: var(--column-margin-top) auto 0 auto;
   }
 </style>
