@@ -54,7 +54,7 @@
       adventures for my
       <a href="https://www.youtube.com/user/pacetanner/playlists">YouTube channel.</a>. Notably, I’m
       currently developing a platform called
-      <a href="kitesurf.ninja"> KiteSurfing Ninja,</a>
+      <a href="http://kitesurf.ninja"> KiteSurfing Ninja,</a>
       which will be a free tool to further connect the kitesurfing community. In my spare time, I can
       often be found furthering the growth of my small photography and drone videography business,
       <a href="https://airautonomo.com"> Airautonomo.</a> Even when I am not working, I am
