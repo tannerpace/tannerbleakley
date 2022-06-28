@@ -5,7 +5,7 @@
 
   export const hydrate = dev;
   export const router = browser;
-  export const prerender = false;
+  export const prerender = true;
 
   export const meta = {
     title: 'Tanner Bleakley',
